@@ -2,4 +2,4 @@
 
 #### Biomedical engineer and junior ml engineer.
 
-Currently I'm taking my first steps as ml engineer in the biological and medical field.
+Currently I'm taking my first steps as ml engineer in the biological field.
